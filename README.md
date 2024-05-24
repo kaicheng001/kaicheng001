@@ -7,10 +7,6 @@
 
 ## GitHub Stats
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaicheng001&layout=compact" alt="Top Languages" />
-</div>
-
 <div style="display: flex; justify-content: space-around;">
   <div style="flex: 1; padding: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=kaicheng001&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -19,7 +15,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaicheng001&theme=radical" alt="GitHub Streak" />
   </div>
 </div>
-
-## Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaicheng001&repo=23-24Spring_ML_experiment)](https://github.com/kaicheng001/23-24Spring_ML_experiment)
