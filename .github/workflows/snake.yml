@@ -13,6 +13,9 @@ on:
     branches:
     - main
     
+permissions:
+  contents: write # This explicitly grants write permission
+    
 jobs:
   generate:
     runs-on: ubuntu-latest
