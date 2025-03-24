@@ -1,7 +1,7 @@
 
  <h2>Hi, I'am kaicheng001👋</h2>
 <a href="https://github.com/kaicheng001">
-  <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=kaicheng001&show_icons=true&include_all_commits=true" />
+  <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=solarized-github&username=kaicheng001&show_icons=true&include_all_commits=true" />
 </a>
 <img align="right" src="https://komarev.com/ghpvc/?username=kaicheng001" alt="hiyouga" />
 
