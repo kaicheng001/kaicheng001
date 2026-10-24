@@ -1,8 +1,4 @@
 <h2>Hi, I'am kaicheng001👋</h2>
-<a href="https://github.com/kaicheng001">
-  <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaicheng001&theme=default&show_icons=true&hide_border=true&count_private=true" />
-</a>
-<img align="right" src="https://komarev.com/ghpvc/?username=kaicheng001" alt="hiyouga" />
 
 - 😄 I'm kaicheng001👋.
 - 🏫 I am currently a first-year master's student at the School of Information Science and Technology, University of Science and Technology of China, [University of Science and Technology of China](https://en.ustc.edu.cn/).
